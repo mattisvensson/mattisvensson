@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matti!
-- 👀 I’m interested in coding (preferably web development), chess and computer games.
-- 🌱 I’m currently learning ReactJS and NodeJS
-- 📫 You can reach me at [mattisvensson.com](https://mattisvensson.com) or via email at matti@mattisvensson.com
+- 👀 I like web development, chess and computer games.
+- ✨ React and Next (sometimes Vue and Nuxt)
+- 📫 [mattisvensson.com](https://mattisvensson.com)
 
 <!---
 mattisvensson/mattisvensson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
